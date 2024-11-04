@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@catppuccin/palette": "^1.4.0",
+    "@catppuccin/palette": "^1.7.1",
     "@picocss/pico": "2.0.6",
     "htmx-ext-head-support": "^2.0.2",
     "htmx-ext-preload": "^2.0.1",

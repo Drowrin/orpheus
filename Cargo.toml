@@ -9,7 +9,7 @@ edition = "2021"
 include = ["generated", "content", "web"]
 
 [dependencies]
-axum = { version = "0.7.7", features = ["macros"] }
+axum = { version = "0.7.9", features = ["macros"] }
 http-body-util = "0.1.2"
 maud = { version = "0.26.0", features = ["axum"] }
 serde = { version = "1.0.210" }

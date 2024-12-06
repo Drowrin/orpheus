@@ -20,7 +20,7 @@ melody = { path = "../melody" }
 syntect = "5.2.0"
 pandoc_ast = "0.8.6"
 glob = "0.3.1"
-clap = { version = "4.5.20", features = ["derive"] }
+clap = { version = "4.5.23", features = ["derive"] }
 chrono = "0.4.38"
 tantivy = "0.22.0"
 inquire = "0.7.5"

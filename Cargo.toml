@@ -12,7 +12,7 @@ include = ["generated", "content", "web"]
 axum = { version = "0.7.7", features = ["macros"] }
 http-body-util = "0.1.2"
 maud = { version = "0.26.0", features = ["axum"] }
-serde = { version = "1.0.210" }
+serde = { version = "1.0.216" }
 serde_yaml = "0.9.34"
 tokio = { version = "1.40.0", features = ["full"] }
 tower-http = { version = "0.6.1", features = [

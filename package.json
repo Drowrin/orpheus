@@ -3,7 +3,7 @@
     "@catppuccin/palette": "^1.4.0",
     "@picocss/pico": "2.0.6",
     "htmx-ext-head-support": "^2.0.2",
-    "htmx-ext-preload": "^2.0.1",
+    "htmx-ext-preload": "^2.1.0",
     "htmx.org": "2.0.3"
   }
 }

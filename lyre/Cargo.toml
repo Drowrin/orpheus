@@ -11,7 +11,7 @@ sha2 = { version = "0.10.8" }
 base64 = { version = "0.22.1" }
 eyre = "0.6.12"
 color-eyre = "0.6.3"
-colored = "2.1.0"
+colored = "3.0.0"
 slug = "0.1.6"
 grass = "0.13.4"
 pandoc = "0.8.11"

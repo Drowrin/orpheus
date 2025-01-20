@@ -19,7 +19,7 @@ verse = { path = "../verse" }
 melody = { path = "../melody" }
 syntect = "5.2.0"
 pandoc_ast = "0.8.6"
-glob = "0.3.1"
+glob = "0.3.2"
 clap = { version = "4.5.26", features = ["derive"] }
 chrono = "0.4.38"
 tantivy = "0.22.0"

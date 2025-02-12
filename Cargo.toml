@@ -9,7 +9,7 @@ edition = "2021"
 include = ["generated", "content", "web"]
 
 [dependencies]
-axum = { version = "0.7.6", features = ["macros"] }
+axum = { version = "0.8.1", features = ["macros"] }
 axum-htmx = { version = "0.6.0", features = ["serde"] }
 axum-extra = { version = "0.9.3", features = ["query"] }
 tokio = { version = "1.43.0", features = ["full"] }

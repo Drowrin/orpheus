@@ -20,7 +20,7 @@ syntect = "5.2.0"
 pandoc_ast = "0.8.6"
 glob = "0.3.2"
 clap = { version = "4.5.29", features = ["derive"] }
-chrono = "0.4.39"
+chrono = "0.4.40"
 tantivy = "0.22.0"
 inquire = "0.7.5"
 simple_search = "0.2.1"
